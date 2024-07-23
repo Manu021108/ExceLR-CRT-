@@ -1,0 +1,111 @@
+Day -2
+HTML: used to design a webpage
+ CSS: using for styles
+Javascript
+Client server architecture:
+Request and Response
+Types of Response:
+1.static response
+2.Dynamic Response: Based on profile
+
+Business Layer: used for security Purpose.[Java ,python, c]
+
+java is highly secured due to JVM [Generates bytecode]
+
+HTML Tags
+Heading Tags: 6 heading tags 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            newpage
+
+        </title>
+    </head>
+    <body>
+        <h1>
+            welcome to my webpage!
+        </h1>
+        <h2>
+            welcome to my webpage!
+        </h2><h3>
+            welcome to my webpage!
+        </h3><h4>
+            welcome to my webpage!
+        </h4><h5>
+            welcome to my webpage!
+        </h5><h6>
+            welcome to my webpage!
+        </h6>
+    </body>
+</html>
+Block Level Elements:
+1.Starts on a new line
+example:
+<p> lorem</p>
+        <div>
+            hello manish ji
+        </div>
+
+
+Inline Elements:
+
+1.Does not start on a new line
+2.only takes necessary width
+<div> Inline Elements </div>
+        <span> iam Manish</span>
+        <pre>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, exercitationem dolorum? Optio, recusandae reiciendis. Neque voluptatum debitis nulla eum libero dolore dolor, blanditiis autem reiciendis ullam tenetur vero ducimus <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur molestiae atque, cumque exercitationem qui aliquam alias dolores ratione voluptatum, facilis velit illum. Cumque ex officiis quis ad similique mollitia rem.</p>
+    </pre>
+3.All formatting tags are inline
+
+
+
+Formatting Tags:
+<div> Formatting Tags</div>
+    <p> Hello this is my <bold>paragraph</bold></p>
+    <p> Hello this is my <i>paragraph</i></p>
+    <p> Hello this is my <u>paragraph</u></p>
+    <p> Hello this is my <mark>paragraph</mark></p>
+
+Striking Tags:
+
+div>
+        Striking the text.
+    <p> Hello this is my <del>>paragraph</del></p>
+    </div>
+
+
+Super script and sub script:
+
+
+<div>
+        exponents 
+        (a+b)<sup>2</sup>=a<sup>2</sup>+b<sup>2</sup>+2ab
+        (a+b)<sub>2</sub>=a<sub>2</sub>+b<sub>2</sub>+2ab
+    </div>
+
+
+Address Tag:
+
+<div>address tag
+        <pre>
+        <address>Shambunipet,<br> warangal,<br>506005</address>
+    </pre>
+
+
+Quotation tags:
+
+<div><q>Hello ji</q></div>
+
+style tags:
+
+<h1 align="center"  style="background-color:rgb(177, 101, 173);color: brown;">
+            welcome to my webpage!
+        </h1><hr>
+
+
+
+
+
+
